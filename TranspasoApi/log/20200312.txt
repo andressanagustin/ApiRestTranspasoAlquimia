@@ -1,0 +1,18 @@
+TranspasoApi.Controllers.AdherentesController 08:19:16
+TrabajaDatos - An error occurred while updating the entries. See the inner exception for details.
+
+TranspasoApi.Controllers.AdherentesController 08:21:32
+TrabajaDatos - An error occurred while updating the entries. See the inner exception for details.
+
+TranspasoApi.Controllers.AdherentesController 08:41:32
+TrabajaDatos - An error occurred while updating the entries. See the inner exception for details.
+
+TranspasoApi.Controllers.AdherentesController 08:43:27
+TrabajaDatos - An error occurred while updating the entries. See the inner exception for details.
+
+TranspasoApi.Controllers.AdherentesController 08:46:18
+TrabajaDatos - An error occurred while updating the entries. See the inner exception for details.
+
+TranspasoApi.Controllers.AdherentesController 09:45:03
+TrabajaDatos - An error occurred while updating the entries. See the inner exception for details.
+

@@ -1,0 +1,27 @@
+TranspasoApi.Controllers.CondicionController 10:25:21
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+TranspasoApi.Controllers.CondicionController 10:26:02
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+TranspasoApi.Controllers.CondicionController 10:30:22
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+TranspasoApi.Controllers.CondicionController 10:35:12
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+TranspasoApi.Controllers.CondicionController 10:40:08
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+TranspasoApi.Controllers.CondicionController 10:44:42
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+TranspasoApi.Controllers.CondicionController 10:45:15
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+TranspasoApi.Controllers.CondicionController 10:47:20
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
+TranspasoApi.Controllers.CondicionController 10:47:41
+TrabajaDatos - Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+
